@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Memory_unitys.unity
+  isLoaded: 1
+  isActive: 1
